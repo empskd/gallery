@@ -439,12 +439,9 @@ header {
 
 .videos video{
     border: 2px solid royalblue;
-
-}
-
-.video {
     height: 200px;
     width: 350px;
+
 }
 
 
